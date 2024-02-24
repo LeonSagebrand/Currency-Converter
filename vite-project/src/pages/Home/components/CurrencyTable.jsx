@@ -7,7 +7,7 @@ console.log(props.currencyList);
         <div className="text-center">
             <h1 className="font-semibold text-3xl text-purple-700 font-serif">Our first 10 currencies</h1>
             <h2 className="font-semibold font-serif mt-2 text-purple-700 text-xl">Click on the currency for more information</h2>
-            <table className="m-auto text-xl mt-10 text-left" style={{ borderSpacing: '0 10px' }}>
+            <table className="m-auto text-xl mt-10 text-left">
               <tr>
                 <th style={{ padding: '10px' }}>Name</th>
                 <th style={{ padding: '10px' }}>1 USD</th>
